@@ -1,0 +1,9 @@
+[
+  {
+    "id": "user-123",
+    "name": "Demo User",
+    "phoneE164": "+15551234567",
+    "whatsappOptIn": true,
+    "whatsappOptInAt": "2026-03-18T00:00:00.000Z"
+  }
+]
